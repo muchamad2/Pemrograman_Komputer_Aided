@@ -32,7 +32,10 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="Tugas5.cpp" />
+		<Unit filename="Tugas5.cpp">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Tugas6.cpp" />
 		<Unit filename="main.cpp">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
